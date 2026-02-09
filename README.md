@@ -51,7 +51,7 @@ Jika Anda ingin men-deploy ulang atau memindahkan ke repository lain:
 2.  **Clone Repo:** Clone repository ini ke komputer lokal atau buat repo baru di GitHub.
 3.  **Update Link:** Buka file `index.html` dan ganti URL pada tag `iframe`:
     ```html
-    <iframe src="https://script.google.com/macros/s/AKfycbxSb1FMOM7gO-HpQubiZ56DDRdbXeQxGcZbk056jFl-0fISr1sjnNzYar06iWF9KOQfWA/exec"></iframe>
+    <iframe src="https://script.google.com/macros/s/AKfycbwL5V4uP8HDRcuMDe0Nl7z1ro1nzRsStfS7kj5q-YVuHI1sN_iwo7X_VQuXArUe8KoFrw/exec"></iframe>
     ```
 4.  **Push:** Commit dan push perubahan ke GitHub.
 5.  **Deploy:** Aktifkan **GitHub Pages** (di menu Settings) atau hubungkan repository ke **Vercel**.
@@ -64,5 +64,6 @@ Jika Anda ingin men-deploy ulang atau memindahkan ke repository lain:
 * **Browser:** Disarankan menggunakan Google Chrome atau browser modern lainnya untuk tampilan terbaik.
 
 ---
+
 
 **© 2024 SD Islam Al Alaq - Dikembangkan untuk Penggunaan Internal.**
